@@ -1,1 +1,1 @@
-# itdepartment-wordpress
+# it-department-wordpress
